@@ -8,3 +8,5 @@ user
 default
 system
 sys
+pass
+r00t
