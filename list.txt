@@ -4,3 +4,5 @@ password1234
 passwd1234
 admin
 guest
+user
+default
