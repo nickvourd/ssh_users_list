@@ -10,3 +10,6 @@ system
 sys
 pass
 r00t
+local
+localhost
+anonymous
