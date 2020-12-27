@@ -13,3 +13,7 @@ r00t
 local
 localhost
 anonymous
+password
+password123
+pass123
+null
